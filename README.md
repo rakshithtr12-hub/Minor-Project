@@ -1,13 +1,13 @@
 # Investigating the Role of AI-based Personalization in Shaping E-commerce Consumer Buying Behavior  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project explores how **AI-based personalization** influences consumer buying behavior in e-commerce. Personalization has become one of the most effective tools for online retailers to drive engagement, improve customer loyalty, and increase sales.  
 
 The project is part of my **MBA in Data Science** coursework (Amity University, 2025) and demonstrates how basic **data analysis** and **visualization** can highlight personalization trends.  
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 - Understand how personalization impacts consumer decisions.  
 - Explore commonly used personalization tools in e-commerce.  
 - Review real-world practices from companies like **Amazon, Netflix, Alibaba**.  
@@ -16,7 +16,7 @@ The project is part of my **MBA in Data Science** coursework (Amity University, 
 
 ---
 
-## 📚 Literature Insights  
+##  Literature Insights  
 - McKinsey (2022): Personalization can increase customer satisfaction by **20%**.  
 - Salesforce (2023): **80%** of customers prefer personalized experiences.  
 - Amazon: Around **35% of sales** come from recommendations.  
@@ -24,7 +24,7 @@ The project is part of my **MBA in Data Science** coursework (Amity University, 
 
 ---
 
-## 🔎 Methodology  
+##  Methodology  
 - **Approach**: Qualitative + beginner-level analysis  
 - **Data Source**: Secondary research (reports, blogs, company case studies)  
 - **Tools**: Python (Pandas, Matplotlib)  
@@ -32,7 +32,7 @@ The project is part of my **MBA in Data Science** coursework (Amity University, 
 
 ---
 
-## ⚙️ Personalization Techniques Studied  
+##  Personalization Techniques Studied  
 - Product **Recommendation Engines**  
 - Personalized **emails & offers**  
 - **Dynamic pricing** strategies  
@@ -40,14 +40,14 @@ The project is part of my **MBA in Data Science** coursework (Amity University, 
 
 ---
 
-## 🌍 Case Examples  
+##  Case Examples  
 - **Amazon**: Recommendations account for ~35% of sales.  
 - **Netflix**: Personalization improves user retention significantly.  
 - **Alibaba**: Personalized layouts and real-time suggestions boost conversions.  
 
 ---
 
-## 📊 Beginner-Level Python Example  
+##  Beginner-Level Python Example  
 
 ```python
 import pandas as pd
